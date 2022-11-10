@@ -1,5 +1,5 @@
 # kakao.go
-Simple kakaotalk chatbot using LOCO protocal for Go
+A Simple kakaotalk chatbot using LOCO protocal for Go
 
 # Introduction
 A package that makes the LOCO protocol compatible with Go.
