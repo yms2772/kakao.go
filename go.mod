@@ -1,4 +1,4 @@
-module github.com/yms2772/kakaogo
+module github.com/yms2772/kakao.go
 
 go 1.19
 
