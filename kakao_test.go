@@ -3,7 +3,7 @@ package kakaogo_test
 import (
 	"testing"
 
-	"github.com/yms2772/kakaogo"
+	kakaogo "github.com/yms2772/kakao.go"
 )
 
 func TestNew(t *testing.T) {
