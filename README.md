@@ -11,10 +11,9 @@ A package that makes the LOCO protocol compatible with Go.
 package main
 
 import (
-	"fmt"
 	"log"
 
-	"github.com/yms2772/kakaogo"
+	kakaogo "github.com/yms2772/kakao.go"
 )
 
 func main() {
